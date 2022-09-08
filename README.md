@@ -1,7 +1,7 @@
 
 # ❌ Error Reproduction
 
-1. Clone Repository
+1. Clone Repository & `npm install`
 2. Do `npm run build` & `npm run preview`
 3. Navigate to `localhost` deployment and open `devTools` console, you will see the error.
 
